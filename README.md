@@ -1,5 +1,11 @@
 # Astro Starter Kit: Minimal
 
+## Gihub Repo
+
+[Github site location](https://github.com/broussard/astro-tutorial)
+[repo URL](https://github.com/broussard/astro-tutorial.git)
+
+
 ```sh
 npm create astro@latest -- --template minimal
 ```
